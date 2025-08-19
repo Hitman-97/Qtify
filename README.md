@@ -1,2 +1,2 @@
 # Qtify
-efw
+A QTIFY project
